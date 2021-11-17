@@ -1,0 +1,1 @@
+{"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","sources":["source/style.css"],"sourcesContent":["table{\r\n    border: 2px solid black;\r\n    width: 30%;\r\n}\r\nth{\r\n    border: 2px solid black;\r\n}\r\ntd{\r\n    border: 2px solid black;\r\n}"],"names":[],"version":3,"file":"index.94d42adf.css.map","sourceRoot":"/__parcel_source_root/"}
